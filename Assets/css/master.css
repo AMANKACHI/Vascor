@@ -1,0 +1,61 @@
+.social-header{
+  background-color: #000000;
+}
+.white {
+  color: #FFFFFF;
+}
+ .box{
+   position: relative;
+   text-align: center;
+   color: white;
+   opacity: 0.65;
+ }
+
+ .image-title{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   background-color: #111;
+    color: #fff;
+    padding: 12px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 25px;
+    letter-spacing: 5px;
+ }
+
+ .text-box {
+   margin-top: 10px;
+   padding-left: 25px;
+   padding-right: 25px;
+ }
+
+ .avatar {
+     text-align: center;
+     position: relative;
+ }
+
+ .avatar img {
+     width: 25%;
+     border-radius: 50%;
+ }
+
+ .icon{
+   text-align: center;
+   position: relative;
+ }
+
+ .icon img{
+   width: 25%;
+ }
+
+ .team{
+   background-color: #dcdcdc;
+
+ }
+
+footer{
+  width: 100%;
+  background-color: #000000;
+}
